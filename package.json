@@ -1,0 +1,27 @@
+{
+  "name": "SmartPad",
+  "version": "0.0.1",
+  "description": "An extensible tool for richText editor",
+  "homepage": "https://github.com/russel1237/smartpad",
+  "author": "Russel Mahmud <russel_1237@hotmail.com>",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jshint": "~1.11.0",
+    "gulp-mocha": "~2.1.0",
+    "mocha": "~2.2.5",
+    "should": "~6.0.3"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/russel1237/smartpad"
+  },
+  "licenses": [
+    {
+      "type": "Apache",
+      "url": "http://opensource.org/licenses/Apache-2.0"
+    }
+  ]
+}
